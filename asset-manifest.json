@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emailer/static/css/main.d3bc6ce6.css",
+    "main.js": "/Emailer/static/js/main.353b5b16.js",
+    "static/js/453.f3e499a9.chunk.js": "/Emailer/static/js/453.f3e499a9.chunk.js",
+    "index.html": "/Emailer/index.html",
+    "main.d3bc6ce6.css.map": "/Emailer/static/css/main.d3bc6ce6.css.map",
+    "main.353b5b16.js.map": "/Emailer/static/js/main.353b5b16.js.map",
+    "453.f3e499a9.chunk.js.map": "/Emailer/static/js/453.f3e499a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bc6ce6.css",
+    "static/js/main.353b5b16.js"
+  ]
+}
